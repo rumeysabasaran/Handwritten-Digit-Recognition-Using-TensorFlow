@@ -32,13 +32,4 @@ Model, test verisi üzerindeki rakamları yüksek doğrulukla tahmin etmektedir.
 ## Kişisel Deneyim
 Bu projeyi yaparak TensorFlow ile basit bir sinir ağı kurmayı ve eğitmeyi öğrendim. Görsel verilerle çalışma deneyimi kazandım ve derin öğrenmeye giriş yapmış oldum. Bu temelin üzerine daha karmaşık yapay zeka modelleri geliştirmeyi planlıyorum.
 
-## Proje Dosyaları
-- `mnist_model.py` — Modelin eğitim ve test kodları  
-- `visualization.py` — Tahminlerin görselleştirilmesi için kullanılan kodlar  
-
-## Nasıl Çalıştırılır?
-1. Python ve gerekli kütüphaneler (TensorFlow, NumPy, Matplotlib) yüklü olmalı.  
-2. `mnist_model.py` dosyasını çalıştırarak modeli eğitebilirsiniz.  
-3. Eğitim tamamlandıktan sonra `visualization.py` ile tahminleri görselleştirebilirsiniz.
-
 
